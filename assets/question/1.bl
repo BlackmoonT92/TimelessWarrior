@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dictionary>	
+	<Word>
+		<Question>Anh ấy là người xấu</Question>
+		<EAnswerA>He is a dumb person</EAnswerA>
+		<VAnswerA>Anh ấy là người câm.</VAnswerA>
+		<EAnswerB>He is a bad company. </EAnswerB>
+		<VAnswerB>Anh ấy là bạn xấu.</VAnswerB>		
+		<EAnswerC>He is a direct person.</EAnswerC>
+		<VAnswerC>Anh ấy là người thẳng thắn.</VAnswerC>		
+		<EAnswerD>He is a skeptical person.</EAnswerD>
+		<VAnswerD>Anh ấy là người đa nghi.</VAnswerD>		
+		<RightAnswer>B</RightAnswer>		
+	</Word>	
+	<Word>
+		<Question>Anh ta đang tán tỉnh tôi.</Question>
+		<EAnswerA>He's hitting on me.</EAnswerA>
+		<VAnswerA>Anh ta đang tán tỉnh tôi.</VAnswerA>		
+		<EAnswerB>he is chatting with his friend. </EAnswerB>
+		<VAnswerB>Anh ấy đang tán gẫu với bạn anh ấy. </VAnswerB>	
+		<EAnswerC>he is taking advantage of me.</EAnswerC>
+		<VAnswerC>Anh ấy đang lợi dụng tôi.</VAnswerC>		
+		<EAnswerD>he is having an affair with his boss.</EAnswerD>
+		<VAnswerD>Anh ấy đang ngoại tình với cô chủ.</VAnswerD>		
+		<RightAnswer>A</RightAnswer>	
+	</Word>
+	
+	<Word>
+		<Question>Tôi là người rộng lượng.</Question>
+		<EAnswerA>I am a conscientious person.</EAnswerA>
+		<VAnswerA>Tôi là người có lương tâm.</VAnswerA>		
+		<EAnswerB>I'm a straight person.</EAnswerB>
+		<VAnswerB>Tôi là người thẳng tính.</VAnswerB>		
+		<EAnswerC>I am a servant.</EAnswerC>
+		<VAnswerC>tôi là người hầu.</VAnswerC>		
+		<EAnswerD>I am a generous person.</EAnswerD>
+		<VAnswerD>Tôi là người rộng lượng.</VAnswerD>		
+		<RightAnswer>D</RightAnswer>		
+	</Word>
+	<Word>
+		<Question>Những món ăn ở đây thật ngon.</Question>		
+		<EAnswerA>There is a variety of food here.</EAnswerA>
+		<VAnswerA>Thức ăn ở đây rất đa dạng.</VAnswerA>		
+		<EAnswerB>The food here is fairly good.</EAnswerB>
+		<VAnswerB>Thức ăn ở đây khá ngon.</VAnswerB>	
+		<EAnswerC>The food here is delicious.</EAnswerC>
+		<VAnswerC>Những món ăn ở đây thật ngon.</VAnswerC>		
+		<EAnswerD>Food here mainly is traditional food.</EAnswerD>
+		<VAnswerD>Thức ăn ở đây chủ yếu là món ăn truyền thống.</VAnswerD>		
+		<RightAnswer>C</RightAnswer>		
+	</Word>	
+	<Word>
+		<Question>What is the master of KungFu</Question>
+		<EAnswerA>Burce Lee</EAnswerA>
+		<VAnswerA>Lý Tiểu Long.</VAnswerA>		
+		<EAnswerB>Dicky Cheung</EAnswerB>
+		<VAnswerB>Trương Vệ Kiện</VAnswerB>		
+		<EAnswerC>Jacky chan</EAnswerC>
+		<VAnswerC>Thành Long</VAnswerC>		
+		<EAnswerD>BlackMoonT92</EAnswerD>
+		<VAnswerD>Phan Văn Tâm</VAnswerD>		
+		<RightAnswer>C</RightAnswer>		
+	</Word>
+</Dictionary>
